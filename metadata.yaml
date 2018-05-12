@@ -1,0 +1,40 @@
+_repo: Magyar-n-pmes-kK-pes-kiad-s_38605
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erdélyi, János
+    alias: Erdelyi, Janos
+    birthdate: 1814
+    deathdate: 1868
+    gutenberg_agent_id: '39570'
+    url: http://www.gutenberg.org/2009/agents/39570
+    wikipedia: http://hu.wikipedia.org/wiki/Erd%C3%A9lyi_J%C3%A1nos_%28k%C3%B6lt%C5%91%29
+description: ''
+gutenberg_issued: '2012-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38605'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Hungary'
+- !lcsh 'Folklore -- Hungary'
+- !lcc 'GR'
+tableOfContents: A liliomleány (két képpel) -- A hajnalkötöző királyfi (három képpel)
+  -- A fekete kisasszony (egy képpel) -- Az elátkozott király kisasszony (két képpel)
+  -- A mosolygó alma (egy képpel) -- Nemtudomka (egy képpel) -- A szalmakirály (két
+  képpel) -- Több hétszer esküdni, mint egyszer (egy képpel) -- Az aranyhaju ikrek
+  (két képpel) -- János vitéz (egy képpel) -- A bölcs királyfi (egy képpel) -- Százat
+  egy ütéssel (egy képpel) -- A leghüségesebb királykisasszony -- A három vándorló
+  (egy képpel) -- Tamás kocsis (egy képpel) -- Jézus mondásának teljesedni kell (egy
+  képpel) -- A szegény ember és a halál (egy képpel) -- Mikor én kis fiu voltam (egy
+  képpel) -- Gyermekmesék.
+title: 'Magyar népmesék
+
+  Képes kiadás'
+url: http://www.gutenberg.org/ebooks/38605
